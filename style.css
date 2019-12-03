@@ -1,0 +1,24 @@
+body {
+	background: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, .3));
+	text-transform: uppercase;
+	font-family: 'Sulphur Point', sans-serif;
+}
+
+#title {
+	color: rgb(186, 133, 9);
+
+
+}
+.subtitle {
+	color: rgb(200, 148, 30);
+}
+.image {
+	height: 400px;
+	width: 70vw;
+}
+#desert {
+	width: 50vw
+}
+#link {
+	text-decoration: underline;
+}
